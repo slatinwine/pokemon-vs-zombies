@@ -26,3 +26,7 @@
 | 键盘 | WASD 移动 · Z 放置 · X 取消 · C 换卡 · V 铲子 · 1~4 选卡 · P 暂停 |
 
 🎮 **[开始游戏](https://slatinwine.github.io/pokemon-vs-zombies/)**
+
+## 关注公众号
+
+![公众号二维码](qrcode.jpg)
